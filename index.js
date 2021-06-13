@@ -1,8 +1,9 @@
+// function myFunction(){
+//    location.reload();
+    
+// }
 
 function myFunction(){
-    location.reload();
-    
-}
 var randomNumber1;
     var randomNumber2;
     randomNumber1=Math.floor(Math.random()*6)+1;
@@ -21,6 +22,7 @@ var randomNumber1;
         document.querySelector("h1").innerHTML="Draw!"
     }
 
+}
 
 
 function myFunction1(){
